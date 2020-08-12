@@ -1,0 +1,230 @@
+/* MAIN PROPERTIES
+---------------------------------------------------*/
+
+.background {
+    background-image: url('../Images/2.png');
+    background-size: cover;
+}
+
+.main_page {
+    text-align: center;
+}
+
+.main_back {
+    background-color: white;
+}
+
+#log_box {
+    background-image: url('../Images/2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    margin-bottom: 40px;
+}
+
+#log_box h1{
+    display: inline-block;
+    font-size: 70px;
+    color: #E1E6E9;
+    font-family: Impact, sans-serif;
+    margin: 0;
+}
+
+#log_box h2{
+    font-size: 40px;
+    color: #E1E6E9;
+    text-shadow: 1px 1px 1px 1px #364149;
+}
+
+.login:visited, .login {
+    text-decoration: none;
+    color: #F0F2F4;
+}
+
+.login{
+    font-family: "proxima nova", sans-serif;
+    font-weight: 100;
+    font-size: 23px;
+    background-color: #1C3A4A;
+    border: solid 2px #F0F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    padding: 10px 30px;
+    transition: all ease-in .2s;
+}
+
+.login:hover{
+    background-color: #6C8393;
+    color: #F0F2F4;
+}
+
+#about{
+    width: 1130px;
+    padding: 10px 0;
+    font-size: 17px;
+    color: #364149;
+    display: inline-block;
+}
+
+#about h1{
+    font-size: 35px;
+    padding: 5px 0;
+}
+
+#about p{
+    padding-right: 320px;
+    margin-top: 15px;
+    text-align: justify;
+    padding-bottom: 10px;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+#about img{
+    width: 250px;
+    height: 250px;
+    float: right;
+    padding: 5% 0;
+    border-radius: 50px;
+}
+
+#features{
+    background-color: #F3F2EE;
+    margin-top: 50px;
+    color: #364149;
+    padding: 20px 0;
+}
+
+#features h1{
+    padding: 5px 0;
+    text-align: center;
+}
+
+#features img{
+    width: 190px;
+    height: 190px;
+}
+
+#elements {
+    display: inline-block;
+}
+
+.part{
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+}
+
+.part:first-child {
+    padding-right: 100px;
+}
+
+.part p {
+    text-align: justify;
+    font-size: 18px;
+    width: 300px;
+}
+
+#contacts{
+    width: 700px;
+    color: #364149;
+    height: 160px;
+    text-align: center;
+    background-color: #F3F2EE;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 150px 0;
+    box-shadow: 1px 1px 1px 1px  #6C8393;
+}
+
+#contacts p{
+    line-height: 25px;
+    font-size: 18px;
+}
+
+#contacts h1{
+    font-size: 22px;
+}
+
+
+/* LOGIN PROPERTIES
+---------------------------------------------------*/
+
+.login_main {
+    height: 850px;
+}
+
+.loginbox{
+    width: 320px;
+    height: 370px;
+    background:#364149;
+    color: #F0F2F4;
+    top: 50%;
+    left: 50%;
+    position: absolute!important;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    text-align: justify;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+.loginbox h1{
+    padding: 40px 0 20px;
+    text-align: center;
+    font-size: 25px;
+}
+.loginbox p{
+    font-weight: bold;
+    text-align: center;
+    margin: 15px 0 0;
+}
+
+.loginbox input{
+    width: 70%;
+    margin-bottom: 20px;
+    margin-left: 15%;
+
+}
+.loginbox input[type="text"], input[type="password"]{
+    border:none;
+    border-bottom: 1px solid #CDD0D2;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #CDD0D2;
+    font-size: 16px;
+
+}
+.loginbox input[type= "submit"]{
+    border: none;
+    outline: none;
+    background: #1C3A4A;
+    color: #CDD0D2;
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 10px 0;
+}
+.loginbox input[type="submit"]:hover{
+    cursor: pointer;
+    background: #6C8393;
+    color: #364149;
+}
+.loginbox a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgrey;
+    padding-left: 75px;
+}
+.loginbox a:hover{
+    color: #6C8393;
+}
+

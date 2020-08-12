@@ -1,0 +1,209 @@
+[
+{"type":"header","version":"4.7.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"EGraB"},
+{"type":"table","name":"attendance","database":"EGraB","data":
+[
+{"AID":"1","Enrollment":"5","Activity":"1","Date":"2016-10-04"},
+{"AID":"2","Enrollment":"5","Activity":"1","Date":"2016-10-05"},
+{"AID":"3","Enrollment":"5","Activity":"1","Date":"2016-10-07"},
+{"AID":"4","Enrollment":"5","Activity":"1","Date":"2016-10-11"},
+{"AID":"5","Enrollment":"5","Activity":"1","Date":"2016-10-12"},
+{"AID":"6","Enrollment":"5","Activity":"1","Date":"2016-10-14"},
+{"AID":"7","Enrollment":"5","Activity":"1","Date":"2016-10-18"},
+{"AID":"8","Enrollment":"5","Activity":"1","Date":"2016-10-19"},
+{"AID":"9","Enrollment":"5","Activity":"1","Date":"2016-10-21"},
+{"AID":"10","Enrollment":"5","Activity":"1","Date":"2016-10-25"},
+{"AID":"11","Enrollment":"12","Activity":"1","Date":"2017-10-03"},
+{"AID":"12","Enrollment":"12","Activity":"0","Date":"2017-10-04"},
+{"AID":"13","Enrollment":"8","Activity":"0","Date":"2018-01-09"},
+{"AID":"14","Enrollment":"8","Activity":"1","Date":"2017-03-01"}
+]
+}
+,{"type":"table","name":"courses","database":"EGraB","data":
+[
+{"CID":"1","Course_title":"Programming and Problem Solving I","Course_code":"CS110","Course_credit":"8"},
+{"CID":"2","Course_title":"Introduction to Computer and Information Systems","Course_code":"CS120","Course_credit":"8"},
+{"CID":"3","Course_title":"Calculus","Course_code":"MATH110","Course_credit":"8"},
+{"CID":"5","Course_title":"Language (English)","Course_code":"LANG121E","Course_credit":"3"},
+{"CID":"6","Course_title":"Language(German)","Course_code":"LANG121G","Course_credit":"3"},
+{"CID":"7","Course_title":"Programming and Problem Solving II","Course_code":"CS130","Course_credit":"8"},
+{"CID":"8","Course_title":"Computer Organization and Architecture                \r\n","Course_code":"CS140","Course_credit":"8"},
+{"CID":"9","Course_title":"Discrete Math                                                                         \r\n","Course_code":"MATH120","Course_credit":"8"},
+{"CID":"10","Course_title":"Language (English) ","Course_code":"LANG122E","Course_credit":"3"},
+{"CID":"11","Course_title":"Language (German)","Course_code":"LANG122G","Course_credit":"3"},
+{"CID":"12","Course_title":"Language (English)","Course_code":"LANG221E","Course_credit":"3"},
+{"CID":"13","Course_title":"Language (English)","Course_code":"LANG222E","Course_credit":"3"},
+{"CID":"14","Course_title":"Language (English)","Course_code":"LANG321E","Course_credit":"3"},
+{"CID":"15","Course_title":"Language (English)","Course_code":"LANG322E","Course_credit":"3"},
+{"CID":"16","Course_title":"Language (German)","Course_code":"LANG221G","Course_credit":"3"},
+{"CID":"17","Course_title":"Language (German)","Course_code":"LANG222G","Course_credit":"3"},
+{"CID":"18","Course_title":"Language (German)","Course_code":"LANG321G","Course_credit":"3"},
+{"CID":"19","Course_title":"Language (German)","Course_code":"LANG322G","Course_credit":"3"},
+{"CID":"20","Course_title":"Language (German)","Course_code":"LANG421G","Course_credit":"3"},
+{"CID":"21","Course_title":"Language (German)","Course_code":"LANG422G","Course_credit":"3"},
+{"CID":"22","Course_title":"Database Systems","Course_code":"CS210","Course_credit":"8"},
+{"CID":"23","Course_title":"Design and Implementation in Web Environment","Course_code":"CS220","Course_credit":"8"},
+{"CID":"24","Course_title":"Object-Oriented Programming","Course_code":"CS230","Course_credit":"8"},
+{"CID":"25","Course_title":"Statistics                                  \r\n","Course_code":"MATH210","Course_credit":"4"},
+{"CID":"26","Course_title":"Networks and Telecommunication                              \r\n","Course_code":"CS240","Course_credit":"8"},
+{"CID":"27","Course_title":"System Analysis and Design                                              \r\n","Course_code":"CS250","Course_credit":"8"},
+{"CID":"28","Course_title":"Data Structures                                                                 \r\n","Course_code":"CS260","Course_credit":"8"},
+{"CID":"29","Course_title":"Introduction to Algorithms                                              \r\n","Course_code":"CS310","Course_credit":"8"},
+{"CID":"30","Course_title":"Software Engineering                                                    \r\n","Course_code":"CS320","Course_credit":"8"},
+{"CID":"31","Course_title":"Artificial Intelligence\r\n","Course_code":"CS420","Course_credit":"8"},
+{"CID":"32","Course_title":"Data Mining Techniques and Applications","Course_code":"CS330","Course_credit":"8"},
+{"CID":"33","Course_title":"Computer Graphics ","Course_code":"CS430","Course_credit":"8"},
+{"CID":"34","Course_title":"Operating Systems ","Course_code":"CS340","Course_credit":"8"},
+{"CID":"35","Course_title":"Applied Programming","Course_code":"CS430","Course_credit":"6"},
+{"CID":"36","Course_title":"Dissertation research and writing","Course_code":"CS440","Course_credit":"16"},
+{"CID":"37","Course_title":"Introduction to Microeconomics","Course_code":"EC110","Course_credit":"8"},
+{"CID":"38","Course_title":"Management","Course_code":"EC120","Course_credit":"8"},
+{"CID":"39","Course_title":"Introduction to Mathematical Economics","Course_code":"EC130","Course_credit":"8"},
+{"CID":"40","Course_title":"Comparative Economic Systems","Course_code":"EC140","Course_credit":"8"},
+{"CID":"41","Course_title":"Intermediate Microeconomics","Course_code":"EC210","Course_credit":"8"},
+{"CID":"42","Course_title":"International Economics","Course_code":"EC220","Course_credit":"8"},
+{"CID":"43","Course_title":"Introduction to Econometrics\u00a0","Course_code":"EC230","Course_credit":"8"},
+{"CID":"44","Course_title":"Introduction to Accounting","Course_code":"EC240","Course_credit":"8"},
+{"CID":"45","Course_title":"Economic Development","Course_code":"EC310","Course_credit":"8"},
+{"CID":"46","Course_title":"Labor Economics","Course_code":"EC320","Course_credit":"8"},
+{"CID":"47","Course_title":"International Economics","Course_code":"EC330","Course_credit":"8"},
+{"CID":"48","Course_title":"Natural Resource and Environmental Economics\u00a0","Course_code":"EC410","Course_credit":"8"},
+{"CID":"49","Course_title":"Economic Development","Course_code":"EC420","Course_credit":"8"},
+{"CID":"50","Course_title":"Thesis Writing","Course_code":"EC430","Course_credit":"8"},
+{"CID":"51","Course_title":"Introduction to Politics and International Relations","Course_code":"PSIR110","Course_credit":"8"},
+{"CID":"52","Course_title":"State and Government","Course_code":"PSIR120","Course_credit":"8"},
+{"CID":"53","Course_title":"Academic Writing for Social Science","Course_code":"PSIR130","Course_credit":"6"},
+{"CID":"54","Course_title":"State and Government","Course_code":"PSIR210","Course_credit":"8"},
+{"CID":"55","Course_title":"Media, Power and Culture\r\n","Course_code":"PSIR220","Course_credit":"6"},
+{"CID":"56","Course_title":"Introduction to Political Thought\r\n","Course_code":"PSIR230","Course_credit":"6"},
+{"CID":"57","Course_title":"International Organizations","Course_code":"PSIR240","Course_credit":"6"},
+{"CID":"58","Course_title":"Public Policy\r\n","Course_code":"PSIR310","Course_credit":"6"},
+{"CID":"59","Course_title":"Political Psychology","Course_code":"PSIR320","Course_credit":"6"},
+{"CID":"60","Course_title":"Democracy:  Theory and Debate","Course_code":"PSIR330","Course_credit":"6"},
+{"CID":"61","Course_title":"Thesis\/Research Design\r\n","Course_code":"PSIR410","Course_credit":"6"},
+{"CID":"62","Course_title":"Multi-ethnic States","Course_code":"PSIR420","Course_credit":"8"},
+{"CID":"63","Course_title":"Introduction to Business","Course_code":"EC150","Course_credit":"8"},
+{"CID":"64","Course_title":"Introduction to Macroeconomics","Course_code":"EC160","Course_credit":"8"},
+{"CID":"65","Course_title":"Statistics for Business and Economics","Course_code":"EC170","Course_credit":"8"},
+{"CID":"66","Course_title":"Introduction to Finance","Course_code":"EC180","Course_credit":"8"},
+{"CID":"67","Course_title":"Quantitative Methods","Course_code":"EC250","Course_credit":"8"},
+{"CID":"68","Course_title":"Intermediate Macroeconomics","Course_code":"EC260","Course_credit":"8"},
+{"CID":"69","Course_title":"Comparative Economic Systems","Course_code":"EC270","Course_credit":"8"},
+{"CID":"70","Course_title":"Money and Banking","Course_code":"EC340","Course_credit":"8"},
+{"CID":"71","Course_title":"Health Economics","Course_code":"EC350","Course_credit":"8"},
+{"CID":"72","Course_title":"EU Economic Analysis","Course_code":"EC360","Course_credit":"8"},
+{"CID":"73","Course_title":"Introduction to Research","Course_code":"EC440","Course_credit":"8"},
+{"CID":"74","Course_title":"History of Economic Though","Course_code":"EC450","Course_credit":"8"},
+{"CID":"75","Course_title":"Public Sector Economics","Course_code":"EC460","Course_credit":"8"},
+{"CID":"76","Course_title":"International Law and HR","Course_code":"PSIR360","Course_credit":"6"},
+{"CID":"77","Course_title":"Thesis Research and Writing","Course_code":"PSIR430","Course_credit":"8"},
+{"CID":"78","Course_title":"Nations and Nationalism","Course_code":"PSIR440","Course_credit":"8"},
+{"CID":"83","Course_title":"Introduction to CS","Course_code":"CS101","Course_credit":"4"},
+{"CID":"84","Course_title":"Ideologies in the Contemporary World","Course_code":"PSIR140","Course_credit":"6"},
+{"CID":"85","Course_title":"International Political Economy\r\n","Course_code":"PSIR150","Course_credit":"8"},
+{"CID":"86","Course_title":"Comparative Politics","Course_code":"PSIR240","Course_credit":"8"},
+{"CID":"87","Course_title":"Introduction to BiH Politics","Course_code":"PSIR250","Course_credit":"6"},
+{"CID":"88","Course_title":"Research Methods in Social Sciences","Course_code":"PSIR260","Course_credit":"6"},
+{"CID":"89","Course_title":"International Organisations","Course_code":"PSIR270","Course_credit":"6"},
+{"CID":"90","Course_title":"Basics of EU Politics in International Context","Course_code":"PSIR340","Course_credit":"6"},
+{"CID":"91","Course_title":"Public Policy","Course_code":"PSIR350","Course_credit":"6"},
+{"CID":"93","Course_title":"Survey of English grammar I","Course_code":"ELANG110","Course_credit":"7"},
+{"CID":"94","Course_title":"English Phonetics and Phonology I","Course_code":"ELANG120","Course_credit":"6"},
+{"CID":"95","Course_title":"Academic Writing I","Course_code":"ELANG130","Course_credit":"8"},
+{"CID":"96","Course_title":"Use of English","Course_code":"ELANG140","Course_credit":"6"},
+{"CID":"97","Course_title":"Survey of English Grammar II","Course_code":"ELANG150","Course_credit":"7"},
+{"CID":"98","Course_title":"English Phonetics and Phonology II","Course_code":"ELANG160","Course_credit":"6"},
+{"CID":"99","Course_title":"Academic Wirtitng II","Course_code":"ELANG170","Course_credit":"8"},
+{"CID":"100","Course_title":"History and Culture of the UK and USA","Course_code":"ELANG180","Course_credit":"6"},
+{"CID":"101","Course_title":"Advanced English Grammar I","Course_code":"ELANG210","Course_credit":"7"},
+{"CID":"102","Course_title":"Introduction to Literature","Course_code":"ELANG220","Course_credit":"6"},
+{"CID":"103","Course_title":"The Psychology of Learning","Course_code":"ELANG230","Course_credit":"6"},
+{"CID":"104","Course_title":"Language and Translation I","Course_code":"ELANG240","Course_credit":"8"},
+{"CID":"105","Course_title":"Advanced English Grammar II","Course_code":"ELANG250","Course_credit":"7"},
+{"CID":"106","Course_title":"The English Novel","Course_code":"ELANG260","Course_credit":"6"},
+{"CID":"107","Course_title":"Language and Translation II","Course_code":"ELANG270","Course_credit":"8"},
+{"CID":"108","Course_title":"Introduction to TEFL Skills","Course_code":"ELANG280","Course_credit":"6"},
+{"CID":"109","Course_title":"English Sentence Structure I","Course_code":"ELANG310","Course_credit":"7"},
+{"CID":"110","Course_title":"Modern American Literature","Course_code":"ELANG320","Course_credit":"6"},
+{"CID":"111","Course_title":"A Grammar of BCS for Translation","Course_code":"ELANG330","Course_credit":"7"},
+{"CID":"112","Course_title":"English Sentence Structure II","Course_code":"ELANG340","Course_credit":"7"},
+{"CID":"113","Course_title":"Second Language Acquisition","Course_code":"ELANG350","Course_credit":"6"},
+{"CID":"114","Course_title":"Teaching Young Learners","Course_code":"ELANG360","Course_credit":"7"},
+{"CID":"115","Course_title":"Topics in Applied Linguistics","Course_code":"ELANG410","Course_credit":"7"},
+{"CID":"116","Course_title":"Modernist Writing","Course_code":"ELANG420","Course_credit":"7"},
+{"CID":"117","Course_title":"Shakespeare - Text and Production","Course_code":"ELANG430","Course_credit":"7"},
+{"CID":"118","Course_title":"Internship Case Study for Teaching","Course_code":"ELANG440","Course_credit":"7"}
+]
+}
+,{"type":"table","name":"course_assignments","database":"EGraB","data":
+[
+{"CAID":"1","Department":"1","Course":"6","Professor":"6"},
+{"CAID":"2","Department":"1","Course":"11","Professor":"6"},
+{"CAID":"3","Department":"1","Course":"5","Professor":"5"},
+{"CAID":"4","Department":"1","Course":"10","Professor":"5"},
+{"CAID":"5","Department":"1","Course":"3","Professor":"3"},
+{"CAID":"6","Department":"1","Course":"9","Professor":"3"},
+{"CAID":"7","Department":"1","Course":"2","Professor":"1"},
+{"CAID":"8","Department":"1","Course":"8","Professor":"1"},
+{"CAID":"9","Department":"1","Course":"1","Professor":"2"},
+{"CAID":"10","Department":"1","Course":"7","Professor":"2"},
+{"CAID":"11","Department":"1","Course":"22","Professor":"2"},
+{"CAID":"12","Department":"1","Course":"22","Professor":"2"}
+]
+}
+,{"type":"table","name":"departments","database":"EGraB","data":
+[
+{"DID":"1","Dep_name":"Department of Computer Science","Dep_abbreviation":"CS"},
+{"DID":"2","Dep_name":"Department of Economics","Dep_abbreviation":"ECON"},
+{"DID":"3","Dep_name":"Department of Political Science and International Relations","Dep_abbreviation":"PSIR"},
+{"DID":"4","Dep_name":"Department of Foreign Language","Dep_abbreviation":"DOFL"}
+]
+}
+,{"type":"table","name":"enrollments","database":"EGraB","data":
+[
+{"EID":"1","Student":"1","Course_assignment":"1","Enrollment_date":"2016-10-03"},
+{"EID":"2","Student":"1","Course_assignment":"2","Enrollment_date":"2017-02-27"},
+{"EID":"3","Student":"1","Course_assignment":"3","Enrollment_date":"2016-10-03"},
+{"EID":"4","Student":"1","Course_assignment":"4","Enrollment_date":"2017-02-27"},
+{"EID":"5","Student":"1","Course_assignment":"5","Enrollment_date":"2016-10-03"},
+{"EID":"6","Student":"1","Course_assignment":"6","Enrollment_date":"2017-02-27"},
+{"EID":"7","Student":"1","Course_assignment":"7","Enrollment_date":"2016-10-03"},
+{"EID":"8","Student":"1","Course_assignment":"8","Enrollment_date":"2017-02-27"},
+{"EID":"9","Student":"1","Course_assignment":"9","Enrollment_date":"2016-10-03"},
+{"EID":"10","Student":"1","Course_assignment":"10","Enrollment_date":"2017-02-27"},
+{"EID":"11","Student":"2","Course_assignment":"5","Enrollment_date":"2017-10-03"},
+{"EID":"12","Student":"2","Course_assignment":"11","Enrollment_date":"2017-10-02"},
+{"EID":"22","Student":"2","Course_assignment":"7","Enrollment_date":"2017-10-03"}
+]
+}
+,{"type":"table","name":"grades","database":"EGraB","data":
+[
+{"GID":"1","Enrollment":"5","Test_name":"Homework","Test_score":"100","Max_score":"100","Test_weight":"15","Test_date":"2017-01-13"},
+{"GID":"2","Enrollment":"5","Test_name":"Test 2","Test_score":"100","Max_score":"100","Test_weight":"7","Test_date":"2017-01-11"},
+{"GID":"3","Enrollment":"5","Test_name":"Midterm","Test_score":"100","Max_score":"100","Test_weight":"20","Test_date":"2016-12-06"},
+{"GID":"4","Enrollment":"5","Test_name":"Test 1","Test_score":"100","Max_score":"100","Test_weight":"8","Test_date":"2016-11-22"},
+{"GID":"5","Enrollment":"12","Test_name":"Test 2","Test_score":"80","Max_score":"100","Test_weight":"10","Test_date":"2017-12-21"},
+{"GID":"8","Enrollment":"8","Test_name":"Test 1","Test_score":"98","Max_score":"100","Test_weight":"10","Test_date":"2017-03-14"},
+{"GID":"9","Enrollment":"22","Test_name":"Test1","Test_score":"56","Max_score":"100","Test_weight":"10","Test_date":"2017-10-29"},
+{"GID":"10","Enrollment":"8","Test_name":"Test 2","Test_score":"89","Max_score":"100","Test_weight":"10","Test_date":"2017-04-20"}
+]
+}
+,{"type":"table","name":"professors","database":"EGraB","data":
+[
+{"PID":"1","Department":"1","Gender":"1","Fname":"Armin","Lname":"Jusi\u0107","DOB":"1983-08-28","Place_of_birth":"Zvornik","Address":"Cara Lazara 17","City":"Sarajevo","Zip":"71000","Contract_start_date":"2009-10-02","Contract_end_date":"2020-10-02","Professor_ID":"09LI-AJ-0001","Personal_email":"armin.jusic@yahoo.com","School_email":"armin.jusic@loremipsum.edu","Phone":"38761234762","Password":"arminjusic","Admin":"0"},
+{"PID":"2","Department":"1","Gender":"1","Fname":"Deni","Lname":"Sarajli\u0107","DOB":"1989-10-04","Place_of_birth":"Sarajevo","Address":"D\u017eemala Bijedi\u0107a 46","City":"Sarajevo","Zip":"71000","Contract_start_date":"2015-09-10","Contract_end_date":"2018-09-10","Professor_ID":"15LI-DS-0015","Personal_email":"sarajlic.deni@yahoo.com","School_email":"deni.sarajlic@loremipsum.edu","Phone":"39761678985","Password":"denisarajlic","Admin":"0"},
+{"PID":"3","Department":"1","Gender":"0","Fname":"Maja","Lname":"Dedi\u0107","DOB":"1991-07-13","Place_of_birth":"Sarajevo","Address":"Ive Andri\u0107a 13","City":"Sarajevo","Zip":"71000","Contract_start_date":"2017-10-02","Contract_end_date":"2019-10-02","Professor_ID":"17LI-MD-0032","Personal_email":"maja.dedic@gmail.com","School_email":"maja.dedic@loremipsum.edu","Phone":"387602345673","Password":"majadedic","Admin":"0"},
+{"PID":"4","Department":"1","Gender":"0","Fname":"Danijela","Lname":"Popovi\u0107","DOB":"1990-12-08","Place_of_birth":"Beograd","Address":"Paromlinska 34","City":"Sarajevo","Zip":"71000","Contract_start_date":"2014-09-06","Contract_end_date":"2019-09-06","Professor_ID":"14LI-DP-0012","Personal_email":"d.popovic@outlook.com","School_email":"danijela.popovic@loremipsum.edu","Phone":"38761453728","Password":"danijelapopovic","Admin":"0"},
+{"PID":"5","Department":"4","Gender":"0","Fname":"Lamija","Lname":"Pa\u0161i\u0107","DOB":"1987-05-03","Place_of_birth":"Sarajevo","Address":"Mar\u0161ala Tite 123","City":"Sarajevo","Zip":"71000","Contract_start_date":"2008-10-04","Contract_end_date":"2020-10-04","Professor_ID":"08LI-LP-0007","Personal_email":"lamija.pasic@gmail.com","School_email":"lamija.pasic@loremipsum.edu","Phone":"38761786543","Password":"lamijapasic","Admin":"0"},
+{"PID":"6","Department":"4","Gender":"1","Fname":"Miralem","Lname":"Had\u017ei\u0107","DOB":"1982-11-18","Place_of_birth":"Tuzla","Address":"Ivana Cankara 47","City":"Sarajevo","Zip":"71000","Contract_start_date":"2005-12-09","Contract_end_date":"2019-12-09","Professor_ID":"05LI-MH-0019","Personal_email":"miralem.hadzic@gmail.com","School_email":"miralem.hadzic@loremipsum.edu","Phone":"38762563748","Password":"miralemhadzic","Admin":"0"},
+{"PID":"10","Department":"1","Gender":"1","Fname":"Registry","Lname":"Office","DOB":"2000-01-01","Place_of_birth":"Sarajevo","Address":"Lorem Ipsum bb","City":"Sarajevo","Zip":"71000","Contract_start_date":"2000-01-01","Contract_end_date":"2100-01-01","Professor_ID":"\/","Personal_email":"\/","School_email":"admin@loremipsum.edu","Phone":"38733123456","Password":"admin","Admin":"1"}
+]
+}
+,{"type":"table","name":"students","database":"EGraB","data":
+[
+{"SID":"1","Department":"1","Fname":"Amna","Lname":"\u0160ubi\u0107","DOB":"1998-04-05","Place_of_birth":"Tuzla","Address":"D\u017eemala Bijedi\u0107a 129","City":"Sarajevo","Zip":"71000","Mother_name":"Almira","Father_name":"Damir","Enrollment_date":"2016-10-03","Expected_end_date":"2020-07-30","Student_ID":"16CS-AS-0001","Personal_email":"amnicaaaa4@gmail.com","School_email":"amna.subic@stu.loremipsum.edu","Phone":"38762541492","Password":"amnasubic"},
+{"SID":"2","Department":"2","Fname":"Samir","Lname":"Muji\u0107","DOB":"1996-11-30","Place_of_birth":"Sarajevo","Address":"Ivana Gorana Kova\u010di\u0107a 13","City":"Sarajevo","Zip":"71000","Mother_name":"Samra","Father_name":"Fadil","Enrollment_date":"2015-10-05","Expected_end_date":"2019-07-31","Student_ID":"15EC-SM-0034","Personal_email":"samir.mujic@yahoo.com","School_email":"samir.mujic@stu.loremipsum.edu","Phone":"387608945341","Password":"samirmujic"},
+{"SID":"3","Department":"1","Fname":"Azra","Lname":"Bijedi\u0107","DOB":"1998-12-04","Place_of_birth":"Zvornik","Address":"Dzemala Bijedica 98","City":"Sarajevo","Zip":"71000","Mother_name":"Selma","Father_name":"Rijad","Enrollment_date":"2017-10-02","Expected_end_date":"2021-07-31","Student_ID":"17CS-AB-0001","Personal_email":"azra.b@mail.com","School_email":"azra.bijedic@stu.loremipsum.edu","Phone":"38761543423","Password":"fad693ad0c7003e4275650b925e5f6567727314b"}
+]
+}
+]
